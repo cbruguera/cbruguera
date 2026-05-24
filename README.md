@@ -1,24 +1,20 @@
-# Hi, I'm Carlos Bruguera 👋
+# Carlos Bruguera 👋
 
-**Software Engineer | Web3 Architect | Product Builder**
+**Software Engineer**
 
-I am a product-focused engineer with over 18 years of experience building scalable systems across Web2 and Web3. I specialize in high-stakes environments where security, decentralized coordination, and clean architecture are paramount.
+I build software with a focus on clean architecture, security, and decentralized systems. I enjoy bridging the gap between complex technical requirements and functional, user-centric products.
 
-### 🛠 Tech Stack
+### 🛠 Technical Interests
 
-- **Web3:** Solidity, Ethereum, ZKP (Learning), DID (Decentralized Identity), Token Engineering.
-- **Languages:** TypeScript, JavaScript, Python, Go.
-- **Frontend/Backend:** React, Node.js, Django, PostgreSQL, System Architecture.
+- **Distributed Systems & Web3:** Smart contract architecture (Solidity), Decentralized Identity (DID), and Token Engineering.
+- **Full-Stack Development:** Scalable APIs (Node.js, Python), Type-safe frontend systems (TypeScript, React), and robust database design.
+- **Deep Dives:** Currently exploring Zero-Knowledge Proofs (ZKP) and their application in coordination and governance.
 
-### 🏗 Featured Projects
+### 🏗 Projects
 
-- **[GameDAO](https://github.com/cbruguera/gamedao)**: A decentralized protocol for funding game development and distributing economic ownership.
-- **[Holoverse](https://github.com/cbruguera/holoverse)**: An ambitious universe evolution game tied to token economics.
-- **[SelfKey DID](https://github.com/cbruguera/selfkey-did)**: Library for issuance and verification of verifiable credentials (part of my work in decentralized identity).
-
-### ⚡ Professional Focus
-
-I bridge the gap between complex technical problems and elegant, simple solutions. Whether it's architecting a multi-package TypeScript SDK or designing incentive-compatible tokenomics, I focus on building software that lasts.
+- **[GameDAO](https://github.com/cbruguera/gamedao)**: A protocol for decentralized game funding and economic ownership.
+- **[Holoverse](https://github.com/cbruguera/holoverse)**: An experiment in universe evolution logic and token economics.
+- **[SelfKey DID](https://github.com/cbruguera/selfkey-did)**: Implementation of DID methods and verifiable credential issuance.
 
 ---
-📫 [LinkedIn](https://www.linkedin.com/in/cbruguera/) | 🌍 Buenos Aires, Argentina
+🌍 Buenos Aires, Argentina | [LinkedIn](https://www.linkedin.com/in/cbruguera/)

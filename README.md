@@ -14,7 +14,7 @@ I build software with a focus on clean architecture, security, and decentralized
 
 - **[GameDAO](https://github.com/cbruguera/gamedao)**: A protocol for decentralized game funding and economic ownership.
 - **[Holoverse](https://github.com/cbruguera/holoverse)**: An experiment in universe evolution logic and token economics.
-- **[SelfKey DID](https://github.com/cbruguera/selfkey-did)**: Implementation of DID methods and verifiable credential issuance.
+- **[Tokenomics Analyzer](https://github.com/cbruguera/tokenomics-analyzer)**: AI agent for auditing and comprehensive analysis of token economic models.
 
 ---
 🌍 Buenos Aires, Argentina | [LinkedIn](https://www.linkedin.com/in/cbruguera/)

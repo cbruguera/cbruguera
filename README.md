@@ -1,4 +1,4 @@
-# Carlos Bruguera 🧑🏻‍💻
+# Carlos Bruguera 👋🏻
 
 **Software Engineer**
 

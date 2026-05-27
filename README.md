@@ -10,7 +10,7 @@ I build software with a focus on clean architecture, security, and decentralized
 - **Full-Stack Development:** Scalable APIs (Node.js, Python), Type-safe frontend systems (TypeScript, React), and robust database design.
 - **Deep Dives:** Currently exploring Zero-Knowledge Proofs (ZKP) and their application in coordination and governance.
 
-### 🏗 Projects
+### 🏗 Projects (WIP)
 
 - **[GameDAO](https://github.com/cbruguera/gamedao)**: A protocol for decentralized game funding and economic ownership.
 - **[Holoverse](https://github.com/cbruguera/holoverse)**: An experiment in universe evolution logic and token economics.
